@@ -1,8 +1,11 @@
-#
-    <a href="https://www.wyden.com.br/unidades/unifbv/">
-      <img align="center" width="120px" src="https://logodownload.org/wp-content/uploads/2017/09/Unifbv-logo-1.png"></a>
-    <span> PIBIC - Mapeamento de Encostas com IA e SIG </span>
-</h1>
+<div align="center">
+  <a href="https://www.wyden.com.br/unidades/unifbv/">
+    <img src="https://logodownload.org/wp-content/uploads/2017/09/Unifbv-logo-1.png" alt="Logo UniFBV Wyden" width="120px">
+  </a>
+  <h1>
+    PIBIC - Mapeamento de Encostas com IA e SIG
+  </h1>
+</div>
 
 Repositório desenvolvido para o projeto de Iniciação Científica (PIBIC) sobre **Mapeamento de Encostas com Inteligência Artificial e SIG**, vinculado à [UniFBV](https://www.wyden.com.br/unidades/unifbv/).
 
