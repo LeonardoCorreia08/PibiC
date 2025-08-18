@@ -160,10 +160,6 @@ Frameworks de deep learning utilizados para construir e treinar modelos de redes
 [![GitHub Issues](https://img.shields.io/github/issues/SEU_USUARIO/SEU_REPOSITORIO?style=social)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/issues/)
 
 ## ✒️ Membros contribuintes:
-<a href="https://github.com/SEU_USUARIO/SEU_REPOSITORIO/graphs/contributors">
-    - [Nome Completo do Aluno 1](https://github.com/usuario1)
-    - [Nome Completo do Aluno 2](https://github.com/usuario2)
-</a>
 
 <a>
 <div align="center">Desenvolvido no âmbito do Programa de Iniciação Científica (PIBIC).</div>
