@@ -49,7 +49,7 @@ Conceito de usar modelos de machine learning para aproximar e acelerar simulaç�
 - **Principais Características**: Eficiência computacional, predição em tempo real.
 - **Casos de Uso**: Análise rápida de Fator de Segurança (FOS), sistemas de alerta precoce.
 - **Links**:
-    - [Artigo de Referência (Li et al., 2023)](https://www.mdpi.com/2077-0472/15/14/10793)
+    - [Artigo de Referência (Li et al., 2023)](https://doi.org/10.5194/egusphere-egu23-17051)
 
 ## 🔧 Ferramentas
 
