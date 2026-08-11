@@ -5,8 +5,11 @@
   <p align="center"><img src="logo.png" width="500"></p>
   <h1>
     PIBIC - Mapeamento de Encostas com IA e SIG
+    
   </h1>
 </div>
+
+![Contexto dos deslizamentos em Pernambuco](asset/unifbv.png)
 
 Repositório desenvolvido para o projeto de Iniciação Científica (PIBIC) sobre **Mapeamento de Encostas com Inteligência Artificial e SIG**, vinculado à [UniFBV](https://www.wyden.com.br/unidades/unifbv/).
 
@@ -26,7 +29,7 @@ Repositório desenvolvido para o projeto de Iniciação Científica (PIBIC) sobr
 * O mapeamento atual depende de análises manuais, que são lentas e sujeitas a erros.
 * Os métodos tradicionais não conseguem acompanhar a dinâmica urbana e climática atual.
 
-![Contexto dos deslizamentos em Pernambuco](problema.png)
+![Contexto dos deslizamentos em Pernambuco](asset/problema.png)
 
 ##  A Solução e Objetivo
 A solução proposta pela pesquisa é a **integração de Inteligência Artificial (IA) e Sistemas de Informação Geográfica (SIG)** para automatizar o mapeamento de áreas suscetíveis a deslizamentos.
@@ -40,7 +43,7 @@ O projeto compara as seguintes tecnologias:
 * **Machine Learning:** Random Forest (RF), Support Vector Machine (SVM) e XGBoost.
 * **Deep Learning:** Redes Neurais Convolucionais (CNN), U-Net, Transfer Learning e LSTM.
 
-![Esquema dos modelos de Inteligência Artificial](modelos.png)
+![Esquema dos modelos de Inteligência Artificial](asset/modelos.png)
 
 **Critérios de Comparação:**
 * **Desempenho:** Acurácia, F1-score, AUC, IoU e Índice Kappa.
@@ -64,7 +67,7 @@ O projeto compara as seguintes tecnologias:
 
 ## ⚠ Metodologia (Percurso)
 
-![Fluxograma da Metodologia do PIBIC](metodologia.png)
+![Fluxograma da Metodologia do PIBIC](asset/metodologia.png)
 
 O fluxo analítico do projeto está estruturado em 7 etapas principais:
 1. **Revisão Sistemática:** Levantamento de artigos e estudos científicos focados em IA, SIG e mapeamento de riscos de deslizamentos.
