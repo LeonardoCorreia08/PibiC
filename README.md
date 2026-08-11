@@ -80,6 +80,8 @@ O fluxo analítico do projeto está estruturado em 7 etapas principais:
 7. **Mapas de Risco:** Geração final dos mapas de suscetibilidade e risco de deslizamentos em ambiente SIG para apoio e tomada de decisão.
 
 ---
+![resultado do PIBIC](asset/resul.png) 
+---
 
 ##  Trabalhos Futuros
 A pesquisa abre caminhos para as seguintes expansões:
