@@ -10,7 +10,7 @@
 
 Repositório desenvolvido para o projeto de Iniciação Científica (PIBIC) sobre **Mapeamento de Encostas com Inteligência Artificial e SIG**, vinculado à [UniFBV](https://www.wyden.com.br/unidades/unifbv/)[cite: 3].
 
-## 📌 Análise de Risco Geológico em Pernambuco[cite: 2]
+##  Análise de Risco Geológico em Pernambuco[cite: 2]
 **Equipe do Projeto:**
 * **Pesquisador:** Leonardo H. S. Correia[cite: 2]
 * **Orientadora:** Dra. Betânia Queiroz[cite: 2]
@@ -19,21 +19,21 @@ Repositório desenvolvido para o projeto de Iniciação Científica (PIBIC) sobr
 
 ---
 
-## 🚨 O Problema
+##  O Problema
 * Eventos extremos estão cada vez mais frequentes e intensos devido às mudanças climáticas[cite: 2].
 * O estado de Pernambuco possui elevada suscetibilidade a deslizamentos, principalmente na Região Metropolitana do Recife (RMR)[cite: 2].
 * As fortes chuvas de maio de 2022 provocaram mais de 130 mortes e deixaram milhares de desabrigados, inundando 17% da área urbanizada do Recife[cite: 2].
 * O mapeamento atual depende de análises manuais, que são lentas e sujeitas a erros[cite: 2].
 * Os métodos tradicionais não conseguem acompanhar a dinâmica urbana e climática atual[cite: 2].
 
-## 💡 A Solução e Objetivo
+##  A Solução e Objetivo
 A solução proposta pela pesquisa é a **integração de Inteligência Artificial (IA) e Sistemas de Informação Geográfica (SIG)** para automatizar o mapeamento de áreas suscetíveis a deslizamentos[cite: 2].
 
 O **objetivo** é identificar o modelo mais adequado para o mapeamento eficiente e automatizado em Pernambuco, realizando uma comparação rigorosa entre diferentes arquiteturas de Machine Learning e Deep Learning[cite: 2].
 
 ---
 
-## 🧠 Modelos Avaliados[cite: 2]
+##  Modelos Avaliados[cite: 2]
 O projeto compara as seguintes tecnologias[cite: 2]:
 * **Machine Learning:** Random Forest (RF), Support Vector Machine (SVM) e XGBoost[cite: 2].
 * **Deep Learning:** Redes Neurais Convolucionais (CNN), U-Net, Transfer Learning e LSTM[cite: 2].
@@ -46,7 +46,7 @@ O projeto compara as seguintes tecnologias[cite: 2]:
 
 ---
 
-## 💻 Ecossistema e Ferramentas[cite: 2]
+##  Ecossistema e Ferramentas[cite: 2]
 * **Ecossistema SIG:** Processamento espacial avançado para análise de estabilidade construído sobre o ArcGIS e o QGIS (versão 3.40.12, manipulando algoritmos e arquivos KMZ/GPKG do projeto)[cite: 2].
 * **Cloud Computing:** Uso do Google Earth Engine para processamento de Big Data em escala regional[cite: 2].
 * **Modelagem em Python:** Utilização das bibliotecas Scikit-learn, TensorFlow e OpenCV para treinamento supervisionado[cite: 2].
@@ -70,7 +70,7 @@ O fluxo analítico do projeto está estruturado em 7 etapas principais[cite: 2]:
 
 ---
 
-## 🚀 Trabalhos Futuros[cite: 2]
+##  Trabalhos Futuros[cite: 2]
 A pesquisa abre caminhos para as seguintes expansões[cite: 2]:
 * **Dados Climáticos e Monitoramento em Tempo Real:** Integrar variáveis de umidade do solo e previsões meteorológicas dinâmicas para a criação de alertas operacionais[cite: 2].
 * **Expansão Geográfica e Resiliência Regional:** Replicar a metodologia em outros municípios pernambucanos, adaptando os modelos às realidades geomorfológicas locais[cite: 2].
@@ -79,7 +79,7 @@ A pesquisa abre caminhos para as seguintes expansões[cite: 2]:
 
 ---
 
-## 📚 Referências Principais[cite: 2]
+##  Referências Principais[cite: 2]
 * **Liu (2023):** Integração de Machine Learning com SIG para mapeamento de suscetibilidade a deslizamentos induzidos por chuva[cite: 2].
 * **Ghorbanzadeh (2022):** Utilização de modelos de Deep Learning (CNN) e a base Landslide4Sense para detecção automática de cicatrizes de deslizamentos[cite: 2].
 * **Francini (2022):** Aplicação da rede U-Net com imagens aéreas e dados SIG para identificar áreas edificadas em zonas de alto risco[cite: 2].
