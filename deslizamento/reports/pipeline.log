@@ -1,0 +1,370 @@
+2026-04-19 20:10:00 | INFO     | deslizamento | ============================================================
+2026-04-19 20:10:00 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 20:10:00 | INFO     | deslizamento | ============================================================
+2026-04-19 20:11:38 | INFO     | deslizamento | ============================================================
+2026-04-19 20:11:38 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 20:11:38 | INFO     | deslizamento | ============================================================
+2026-04-19 20:11:38 | INFO     | deslizamento | ============================================================
+2026-04-19 20:11:38 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 20:11:38 | INFO     | deslizamento | ============================================================
+2026-04-19 20:33:11 | INFO     | deslizamento | 
+============================================================
+2026-04-19 20:33:11 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 20:33:11 | INFO     | deslizamento | ============================================================
+2026-04-19 20:33:11 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 20:33:11 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 20:33:11 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 20:33:11 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 20:33:11 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8898 Acc=0.8957 MCC=0.8293
+2026-04-19 20:33:11 | INFO     | deslizamento |   [DL] Residual                  F1w=0.7576 Acc=0.7565 MCC=0.6141
+2026-04-19 20:33:11 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.6144 Acc=0.6435 MCC=0.3902
+2026-04-19 20:33:11 | INFO     | deslizamento | 
+  🏆 Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 20:33:11 | INFO     | deslizamento | 
+  Treino concluído em 1293.1s
+2026-04-19 20:43:07 | INFO     | deslizamento | ============================================================
+2026-04-19 20:43:07 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 20:43:07 | INFO     | deslizamento | ============================================================
+2026-04-19 20:43:07 | INFO     | deslizamento | ============================================================
+2026-04-19 20:43:07 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 20:43:07 | INFO     | deslizamento | ============================================================
+2026-04-19 21:06:11 | INFO     | deslizamento | 
+============================================================
+2026-04-19 21:06:11 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 21:06:11 | INFO     | deslizamento | ============================================================
+2026-04-19 21:06:11 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 21:06:11 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 21:06:11 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 21:06:11 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 21:06:11 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8842 Acc=0.8870 MCC=0.8142
+2026-04-19 21:06:11 | INFO     | deslizamento |   [DL] Residual                  F1w=0.6318 Acc=0.6522 MCC=0.5010
+2026-04-19 21:06:11 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.6303 Acc=0.6696 MCC=0.4369
+2026-04-19 21:06:11 | INFO     | deslizamento | 
+  Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 21:06:11 | INFO     | deslizamento | 
+  Treino concluído em 1384.5s
+2026-04-19 21:09:53 | INFO     | deslizamento | ============================================================
+2026-04-19 21:09:53 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 21:09:53 | INFO     | deslizamento | ============================================================
+2026-04-19 21:09:53 | INFO     | deslizamento | ============================================================
+2026-04-19 21:09:53 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 21:09:53 | INFO     | deslizamento | ============================================================
+2026-04-19 21:32:27 | INFO     | deslizamento | 
+============================================================
+2026-04-19 21:32:27 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 21:32:27 | INFO     | deslizamento | ============================================================
+2026-04-19 21:32:27 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 21:32:27 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 21:32:27 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 21:32:27 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 21:32:27 | INFO     | deslizamento |   [DL] MLP                       F1w=0.9004 Acc=0.9043 MCC=0.8445
+2026-04-19 21:32:27 | INFO     | deslizamento |   [DL] Residual                  F1w=0.8088 Acc=0.8174 MCC=0.6969
+2026-04-19 21:32:27 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.4905 Acc=0.5652 MCC=0.2129
+2026-04-19 21:32:27 | INFO     | deslizamento | 
+  Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 21:32:27 | INFO     | deslizamento | 
+  Treino concluído em 1354.3s
+2026-04-19 21:46:09 | INFO     | deslizamento | ============================================================
+2026-04-19 21:46:09 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 21:46:09 | INFO     | deslizamento | ============================================================
+2026-04-19 21:47:24 | INFO     | deslizamento | ============================================================
+2026-04-19 21:47:24 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 21:47:24 | INFO     | deslizamento | ============================================================
+2026-04-19 21:47:59 | INFO     | deslizamento | ============================================================
+2026-04-19 21:47:59 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 21:47:59 | INFO     | deslizamento | ============================================================
+2026-04-19 21:47:59 | INFO     | deslizamento | ============================================================
+2026-04-19 21:47:59 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 21:47:59 | INFO     | deslizamento | ============================================================
+2026-04-19 22:11:37 | INFO     | deslizamento | 
+============================================================
+2026-04-19 22:11:37 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 22:11:37 | INFO     | deslizamento | ============================================================
+2026-04-19 22:11:37 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 22:11:37 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 22:11:37 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 22:11:37 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 22:11:37 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8899 Acc=0.8957 MCC=0.8293
+2026-04-19 22:11:37 | INFO     | deslizamento |   [DL] Residual                  F1w=0.7595 Acc=0.7739 MCC=0.6463
+2026-04-19 22:11:37 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.6591 Acc=0.6609 MCC=0.4805
+2026-04-19 22:11:37 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.5880 Acc=0.5826 MCC=0.3357
+2026-04-19 22:11:37 | INFO     | deslizamento | 
+  Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 22:11:37 | INFO     | deslizamento | 
+  Treino concluído em 1417.9s
+2026-04-19 22:31:42 | INFO     | deslizamento | ============================================================
+2026-04-19 22:31:42 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 22:31:42 | INFO     | deslizamento | ============================================================
+2026-04-19 22:31:42 | INFO     | deslizamento | ============================================================
+2026-04-19 22:31:42 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 22:31:42 | INFO     | deslizamento | ============================================================
+2026-04-19 22:54:40 | INFO     | deslizamento | 
+============================================================
+2026-04-19 22:54:40 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 22:54:40 | INFO     | deslizamento | ============================================================
+2026-04-19 22:54:40 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 22:54:40 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 22:54:40 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 22:54:40 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 22:54:40 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8880 Acc=0.8957 MCC=0.8311
+2026-04-19 22:54:40 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.6700 Acc=0.7217 MCC=0.5517
+2026-04-19 22:54:40 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.6591 Acc=0.6609 MCC=0.4805
+2026-04-19 22:54:40 | INFO     | deslizamento |   [DL] Residual                  F1w=0.5982 Acc=0.5739 MCC=0.3697
+2026-04-19 22:54:40 | INFO     | deslizamento | 
+  Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 22:54:40 | INFO     | deslizamento | 
+  Treino concluído em 1378.6s
+2026-04-19 23:09:32 | INFO     | deslizamento | ============================================================
+2026-04-19 23:09:32 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 23:09:32 | INFO     | deslizamento | ============================================================
+2026-04-19 23:09:32 | INFO     | deslizamento | ============================================================
+2026-04-19 23:09:32 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 23:09:32 | INFO     | deslizamento | ============================================================
+2026-04-19 23:10:01 | INFO     | deslizamento | ============================================================
+2026-04-19 23:10:01 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 23:10:01 | INFO     | deslizamento | ============================================================
+2026-04-19 23:10:01 | INFO     | deslizamento | ============================================================
+2026-04-19 23:10:01 | INFO     | deslizamento |   MODO: TREINO
+2026-04-19 23:10:01 | INFO     | deslizamento | ============================================================
+2026-04-19 23:34:54 | INFO     | deslizamento | 
+============================================================
+2026-04-19 23:34:54 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 23:34:54 | INFO     | deslizamento | ============================================================
+2026-04-19 23:34:54 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 23:34:54 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 23:34:54 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 23:34:54 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 23:34:54 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8991 Acc=0.9043 MCC=0.8455
+2026-04-19 23:34:54 | INFO     | deslizamento |   [DL] Residual                  F1w=0.7774 Acc=0.8000 MCC=0.6836
+2026-04-19 23:34:54 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.6729 Acc=0.6957 MCC=0.4914
+2026-04-19 23:34:54 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.6591 Acc=0.6609 MCC=0.4805
+2026-04-19 23:34:54 | INFO     | deslizamento | 
+  Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 23:34:54 | INFO     | deslizamento | 
+  Treino concluído em 1521.9s
+2026-04-19 23:35:04 | INFO     | deslizamento | 
+============================================================
+2026-04-19 23:35:04 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-19 23:35:04 | INFO     | deslizamento | ============================================================
+2026-04-19 23:35:04 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9652 Acc=0.9652 MCC=0.9432
+2026-04-19 23:35:04 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9566 Acc=0.9565 MCC=0.9292
+2026-04-19 23:35:04 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9478 Acc=0.9478 MCC=0.9148
+2026-04-19 23:35:04 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9392 Acc=0.9391 MCC=0.9008
+2026-04-19 23:35:04 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8935 Acc=0.8957 MCC=0.8283
+2026-04-19 23:35:04 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.7412 Acc=0.7391 MCC=0.5887
+2026-04-19 23:35:04 | INFO     | deslizamento |   [DL] Residual                  F1w=0.7149 Acc=0.7304 MCC=0.5819
+2026-04-19 23:35:04 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.6591 Acc=0.6609 MCC=0.4805
+2026-04-19 23:35:04 | INFO     | deslizamento | 
+  Melhor: XGBoost (ML) F1=0.9652
+2026-04-19 23:35:04 | INFO     | deslizamento | 
+  Treino concluído em 1503.6s
+2026-04-19 23:45:37 | INFO     | deslizamento | ============================================================
+2026-04-19 23:45:37 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 23:45:37 | INFO     | deslizamento | ============================================================
+2026-04-19 23:45:37 | INFO     | deslizamento | ============================================================
+2026-04-19 23:45:37 | INFO     | deslizamento |   MODO: INFERÊNCIA
+2026-04-19 23:45:37 | INFO     | deslizamento | ============================================================
+2026-04-19 23:45:51 | INFO     | deslizamento |   Predições salvas : reports/predictions.csv
+2026-04-19 23:45:51 | INFO     | deslizamento |   Distribuição ensemble:
+pred_label_ensemble
+Seguro          300
+Lona            153
+Deslizamento    120
+2026-04-19 23:45:51 | INFO     | deslizamento |   Amostras com baixa confiança (<0.6): 26
+2026-04-19 23:50:04 | INFO     | deslizamento | ============================================================
+2026-04-19 23:50:04 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-19 23:50:04 | INFO     | deslizamento | ============================================================
+2026-04-19 23:50:04 | INFO     | deslizamento | Modo evaluate: carrega modelos e reavalia no conjunto de teste.
+2026-04-19 23:50:19 | INFO     | deslizamento |    Avaliação concluída
+2026-04-20 03:46:39 | INFO     | deslizamento | ============================================================
+2026-04-20 03:46:39 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 03:46:39 | INFO     | deslizamento | ============================================================
+2026-04-20 03:46:39 | INFO     | deslizamento | ============================================================
+2026-04-20 03:46:39 | INFO     | deslizamento |   MODO: INFERÊNCIA
+2026-04-20 03:46:39 | INFO     | deslizamento | ============================================================
+2026-04-20 03:47:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:47:30 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 03:47:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:47:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:47:30 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 03:47:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:50:09 | INFO     | deslizamento | ============================================================
+2026-04-20 03:50:09 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 03:50:09 | INFO     | deslizamento | ============================================================
+2026-04-20 03:50:09 | INFO     | deslizamento | ============================================================
+2026-04-20 03:50:09 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 03:50:09 | INFO     | deslizamento | ============================================================
+2026-04-20 03:52:21 | INFO     | deslizamento | ============================================================
+2026-04-20 03:52:21 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 03:52:21 | INFO     | deslizamento | ============================================================
+2026-04-20 03:52:21 | INFO     | deslizamento | ============================================================
+2026-04-20 03:52:21 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 03:52:21 | INFO     | deslizamento | ============================================================
+2026-04-20 03:53:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:53:30 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 03:53:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:53:30 | INFO     | deslizamento | ============================================================
+2026-04-20 03:53:30 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 03:53:30 | INFO     | deslizamento | ============================================================
+2026-04-20 04:35:08 | INFO     | deslizamento | ============================================================
+2026-04-20 04:35:08 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 04:35:08 | INFO     | deslizamento | ============================================================
+2026-04-20 04:35:08 | INFO     | deslizamento | ============================================================
+2026-04-20 04:35:08 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 04:35:08 | INFO     | deslizamento | ============================================================
+2026-04-20 05:01:26 | INFO     | deslizamento | ============================================================
+2026-04-20 05:01:26 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 05:01:26 | INFO     | deslizamento | ============================================================
+2026-04-20 05:01:26 | INFO     | deslizamento | ============================================================
+2026-04-20 05:01:26 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 05:01:26 | INFO     | deslizamento | ============================================================
+2026-04-20 05:03:49 | INFO     | deslizamento | ============================================================
+2026-04-20 05:03:49 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 05:03:49 | INFO     | deslizamento | ============================================================
+2026-04-20 05:04:08 | INFO     | deslizamento | ============================================================
+2026-04-20 05:04:08 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 05:04:08 | INFO     | deslizamento | ============================================================
+2026-04-20 05:04:08 | INFO     | deslizamento | ============================================================
+2026-04-20 05:04:08 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 05:04:08 | INFO     | deslizamento | ============================================================
+2026-04-20 05:27:13 | INFO     | deslizamento | ============================================================
+2026-04-20 05:27:13 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 05:27:13 | INFO     | deslizamento | ============================================================
+2026-04-20 05:27:13 | INFO     | deslizamento | ============================================================
+2026-04-20 05:27:13 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 05:27:13 | INFO     | deslizamento | ============================================================
+2026-04-20 05:51:23 | INFO     | deslizamento | ============================================================
+2026-04-20 05:51:23 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 05:51:23 | INFO     | deslizamento | ============================================================
+2026-04-20 05:51:49 | INFO     | deslizamento | ============================================================
+2026-04-20 05:51:49 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 05:51:49 | INFO     | deslizamento | ============================================================
+2026-04-20 05:51:49 | INFO     | deslizamento | ============================================================
+2026-04-20 05:51:49 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 05:51:49 | INFO     | deslizamento | ============================================================
+2026-04-20 10:31:00 | INFO     | deslizamento | ============================================================
+2026-04-20 10:31:00 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 10:31:00 | INFO     | deslizamento | ============================================================
+2026-04-20 10:31:00 | INFO     | deslizamento | ============================================================
+2026-04-20 10:31:00 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 10:31:00 | INFO     | deslizamento | ============================================================
+2026-04-20 10:56:58 | INFO     | deslizamento | 
+============================================================
+2026-04-20 10:56:58 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-20 10:56:58 | INFO     | deslizamento | ============================================================
+2026-04-20 10:56:58 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.8035 Acc=0.8087 MCC=0.6905
+2026-04-20 10:56:58 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.7917 Acc=0.7913 MCC=0.6743
+2026-04-20 10:56:58 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.7782 Acc=0.7826 MCC=0.6541
+2026-04-20 10:56:58 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.7623 Acc=0.7739 MCC=0.6359
+2026-04-20 10:56:58 | INFO     | deslizamento |   [DL] MLP                       F1w=0.7261 Acc=0.7304 MCC=0.5622
+2026-04-20 10:56:58 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.7037 Acc=0.7043 MCC=0.5330
+2026-04-20 10:56:58 | INFO     | deslizamento |   [DL] Residual                  F1w=0.6854 Acc=0.6783 MCC=0.4910
+2026-04-20 10:56:58 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.6622 Acc=0.6870 MCC=0.4759
+2026-04-20 10:56:58 | INFO     | deslizamento | 
+  Melhor: GradientBoosting (ML) F1=0.8035
+2026-04-20 10:56:58 | INFO     | deslizamento | 
+  Treino concluído em 1558.0s
+2026-04-20 17:43:26 | INFO     | deslizamento | ============================================================
+2026-04-20 17:43:26 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 17:43:26 | INFO     | deslizamento | ============================================================
+2026-04-20 17:43:26 | INFO     | deslizamento | ============================================================
+2026-04-20 17:43:26 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 17:43:26 | INFO     | deslizamento | ============================================================
+2026-04-20 18:23:29 | INFO     | deslizamento | ============================================================
+2026-04-20 18:23:29 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 18:23:29 | INFO     | deslizamento | ============================================================
+2026-04-20 18:23:29 | INFO     | deslizamento | ============================================================
+2026-04-20 18:23:29 | INFO     | deslizamento |   MODO: TREINO
+2026-04-20 18:23:29 | INFO     | deslizamento | ============================================================
+2026-04-20 18:47:33 | INFO     | deslizamento | 
+============================================================
+2026-04-20 18:47:33 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-20 18:47:33 | INFO     | deslizamento | ============================================================
+2026-04-20 18:47:33 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.7946 Acc=0.7913 MCC=0.6747
+2026-04-20 18:47:33 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.7902 Acc=0.7913 MCC=0.6696
+2026-04-20 18:47:33 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.7841 Acc=0.7913 MCC=0.6677
+2026-04-20 18:47:33 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.7782 Acc=0.7826 MCC=0.6541
+2026-04-20 18:47:33 | INFO     | deslizamento |   [DL] MLP                       F1w=0.7538 Acc=0.7652 MCC=0.6116
+2026-04-20 18:47:33 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.7037 Acc=0.7043 MCC=0.5330
+2026-04-20 18:47:33 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.6728 Acc=0.6870 MCC=0.4791
+2026-04-20 18:47:33 | INFO     | deslizamento |   [DL] Residual                  F1w=0.5585 Acc=0.5739 MCC=0.3245
+2026-04-20 18:47:33 | INFO     | deslizamento | 
+  Melhor: RandomForest (ML) F1=0.7946
+2026-04-20 18:47:33 | INFO     | deslizamento | 
+  Treino concluído em 1444.8s
+2026-04-20 19:25:05 | INFO     | deslizamento | ============================================================
+2026-04-20 19:25:05 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 19:25:05 | INFO     | deslizamento | ============================================================
+2026-04-20 19:25:58 | INFO     | deslizamento | ============================================================
+2026-04-20 19:25:58 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-20 19:25:58 | INFO     | deslizamento | ============================================================
+2026-04-20 19:25:58 | INFO     | deslizamento | Modo evaluate: carrega modelos e reavalia no conjunto de teste.
+2026-04-20 19:26:12 | INFO     | deslizamento |    Avaliação concluída
+2026-04-21 13:23:16 | INFO     | deslizamento | ============================================================
+2026-04-21 13:23:16 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-04-21 13:23:16 | INFO     | deslizamento | ============================================================
+2026-04-21 13:23:16 | INFO     | deslizamento | ============================================================
+2026-04-21 13:23:16 | INFO     | deslizamento |   MODO: TREINO
+2026-04-21 13:23:16 | INFO     | deslizamento | ============================================================
+2026-04-21 13:50:10 | INFO     | deslizamento | 
+============================================================
+2026-04-21 13:50:10 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-04-21 13:50:10 | INFO     | deslizamento | ============================================================
+2026-04-21 13:50:10 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9258 Acc=0.9244 MCC=0.8795
+2026-04-21 13:50:10 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9132 Acc=0.9128 MCC=0.8583
+2026-04-21 13:50:10 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9072 Acc=0.9070 MCC=0.8487
+2026-04-21 13:50:10 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9025 Acc=0.9012 MCC=0.8409
+2026-04-21 13:50:10 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8629 Acc=0.8605 MCC=0.7784
+2026-04-21 13:50:10 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.8043 Acc=0.7965 MCC=0.6823
+2026-04-21 13:50:10 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.7335 Acc=0.7267 MCC=0.5687
+2026-04-21 13:50:10 | INFO     | deslizamento |   [DL] Residual                  F1w=0.6665 Acc=0.6570 MCC=0.4522
+2026-04-21 13:50:10 | INFO     | deslizamento | 
+  Melhor: LightGBM (ML) F1=0.9258
+2026-04-21 13:50:10 | INFO     | deslizamento | 
+  Treino concluído em 1613.5s
+2026-06-29 09:52:01 | INFO     | deslizamento | ============================================================
+2026-06-29 09:52:01 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-06-29 09:52:01 | INFO     | deslizamento | ============================================================
+2026-06-29 09:52:01 | INFO     | deslizamento | ============================================================
+2026-06-29 09:52:01 | INFO     | deslizamento |   MODO: TREINO
+2026-06-29 09:52:01 | INFO     | deslizamento | ============================================================
+2026-06-29 10:00:07 | INFO     | deslizamento | ============================================================
+2026-06-29 10:00:07 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-06-29 10:00:07 | INFO     | deslizamento | ============================================================
+2026-06-29 10:00:07 | INFO     | deslizamento | ============================================================
+2026-06-29 10:00:07 | INFO     | deslizamento |   MODO: TREINO
+2026-06-29 10:00:07 | INFO     | deslizamento | ============================================================
+2026-08-11 04:04:54 | INFO     | deslizamento | ============================================================
+2026-08-11 04:04:54 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-08-11 04:04:54 | INFO     | deslizamento | ============================================================
+2026-08-11 05:07:09 | INFO     | deslizamento | ============================================================
+2026-08-11 05:07:09 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-08-11 05:07:09 | INFO     | deslizamento | ============================================================
+2026-08-11 02:08:17 | INFO     | deslizamento | ============================================================
+2026-08-11 02:08:17 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-08-11 02:08:17 | INFO     | deslizamento | ============================================================
+2026-08-11 02:08:17 | INFO     | deslizamento | ============================================================
+2026-08-11 02:08:17 | INFO     | deslizamento |   MODO: TREINO
+2026-08-11 02:08:17 | INFO     | deslizamento | ============================================================
+2026-08-11 02:54:35 | INFO     | deslizamento | ============================================================
+2026-08-11 02:54:35 | INFO     | deslizamento |   Previsão de Deslizamentos – RMR  v1.0.0
+2026-08-11 02:54:35 | INFO     | deslizamento | ============================================================
+2026-08-11 02:54:35 | INFO     | deslizamento | ============================================================
+2026-08-11 02:54:35 | INFO     | deslizamento |   MODO: TREINO
+2026-08-11 02:54:35 | INFO     | deslizamento | ============================================================
+2026-08-11 03:21:06 | INFO     | deslizamento | 
+============================================================
+2026-08-11 03:21:06 | INFO     | deslizamento |   RESUMO FINAL – TREINO
+2026-08-11 03:21:06 | INFO     | deslizamento | ============================================================
+2026-08-11 03:21:06 | INFO     | deslizamento |   [ML] LightGBM                  F1w=0.9254 Acc=0.9244 MCC=0.8793
+2026-08-11 03:21:06 | INFO     | deslizamento |   [ML] GradientBoosting          F1w=0.9191 Acc=0.9186 MCC=0.8675
+2026-08-11 03:21:06 | INFO     | deslizamento |   [ML] RandomForest              F1w=0.9028 Acc=0.9012 MCC=0.8424
+2026-08-11 03:21:06 | INFO     | deslizamento |   [ML] XGBoost                   F1w=0.9016 Acc=0.9012 MCC=0.8387
+2026-08-11 03:21:06 | INFO     | deslizamento |   [DL] MLP                       F1w=0.8866 Acc=0.8837 MCC=0.8156
+2026-08-11 03:21:06 | INFO     | deslizamento |   [DL] WideDeep                  F1w=0.8735 Acc=0.8721 MCC=0.7974
+2026-08-11 03:21:06 | INFO     | deslizamento |   [DL] Residual                  F1w=0.8333 Acc=0.8314 MCC=0.7328
+2026-08-11 03:21:06 | INFO     | deslizamento |   [ML] LogisticRegression        F1w=0.8043 Acc=0.7965 MCC=0.6823
+2026-08-11 03:21:06 | INFO     | deslizamento | 
+  Melhor: LightGBM (ML) F1=0.9254
+2026-08-11 03:21:06 | INFO     | deslizamento | 
+  Treino concluído em 1590.3s
