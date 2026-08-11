@@ -101,3 +101,9 @@ A pesquisa abre caminhos para as seguintes expansões:
 * **Marengo (2023):** Análise aprofundada do evento extremo de chuvas de maio de 2022 no Recife, cobrindo inundações e deslizamentos fatais.
 * **Nocentini (2024):** Avaliação espaço-temporal de probabilidade de deslizamentos em escala regional através de machine learning.
 * **USGS / Highland & Bobrowsky (2008):** Manual de deslizamentos - guia fundamental para a compreensão damecânica dos deslizamentos
+
+
+
+## Licença
+
+Projeto acadêmico – PIBIC. Uso restrito a pesquisa.
