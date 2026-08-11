@@ -1,8 +1,8 @@
 <div align="center">
   <a href="https://www.wyden.com.br/unidades/unifbv/">
-    <img src="logo.PNG" alt="UniFBV Wyden" width="120px">
+    <img src="asset/logo.PNG" alt="UniFBV Wyden" width="120px">
   </a>
-  <p align="center"><img src="asset/logo.png" width="500"></p>
+
   <h1>
     PIBIC - Mapeamento de Encostas com IA e SIG
     
