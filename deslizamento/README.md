@@ -1,3 +1,9 @@
+## 📝 Licença
+
+Projeto acadêmico – PIBIC. Uso restrito a pesquisa.
+
+
+
 # ⛰️ Pipeline de Previsão de Deslizamentos – RMR
 
 Sistema completo de Machine Learning e Deep Learning para previsão de risco de deslizamento na Região Metropolitana do Recife (RMR), combinando variáveis de **relevo** com **gatilhos pluviométricos**.
