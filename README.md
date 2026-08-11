@@ -13,6 +13,7 @@
 
 Repositório desenvolvido para o projeto de Iniciação Científica (PIBIC) sobre **Mapeamento de Encostas com Inteligência Artificial e SIG**, vinculado à [UniFBV](https://www.wyden.com.br/unidades/unifbv/).
 
+
 ##  Análise de Risco Geológico em Pernambuco
 **Equipe do Projeto:**
 * **Pesquisador:** Leonardo H. S. Correia
@@ -88,6 +89,8 @@ A pesquisa abre caminhos para as seguintes expansões:
 * **Impacto Social e Políticas Públicas:** Garantir a aplicabilidade direta dos modelos gerados na gestão pública, visando promover justiça social e ações proativas de prevenção.
 
 ---
+## Ecosystem & Apps
+  🌐 SentinelaGlobal Web App: Versão interativa online do sistema de mapeamento e prevenção de desastres. Clique aki --> [App](https://sentinelaglobal.freebuff.app/)
 
 ##  Referências Principais
 * **Liu (2023):** Integração de Machine Learning com SIG para mapeamento de suscetibilidade a deslizamentos induzidos por chuva.
