@@ -270,6 +270,7 @@ Agregadas como `_mean`, `_max`, `_std` por posto e aplicadas como mediana region
 | Medianas regionais APAC | Sem coordenadas vinculadas aos pontos; mediana representa gatilho regional |
 
 ---
+Co-authored-by: Bethania Queiroz <bethania.queiroz@professores.unifbv.edu.br>
 
 ## 📝 Licença
 
