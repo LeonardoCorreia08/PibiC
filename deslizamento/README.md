@@ -271,8 +271,6 @@ Agregadas como `_mean`, `_max`, `_std` por posto e aplicadas como mediana region
 
 ---
 
-Co-outhored-by: Bethania Queiros <berhania.queiroz@proferssores.unifbv.edu.br>
-
 ## 📝 Licença
 
 Projeto acadêmico – PIBIC. Uso restrito a pesquisa.
